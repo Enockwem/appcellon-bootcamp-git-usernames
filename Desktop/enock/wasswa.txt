@@ -1,2 +1,5 @@
-I love programming.
-I love machine learning for artificial intellengence.
+hello, this is wasswa enock male.
+I'm interested in programming and in the languages below
+	java
+	python 
+I'm also interested in web designing(word press)
